@@ -58,8 +58,6 @@ public class SaveLoad {
             Log.d("---SANDy---","THE FILE HAS BEEN Loaded");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
-        }catch (IOException e){
-            e.printStackTrace();
         }
 
     }
