@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+
+    <TextView
+        android:id="@+id/emotionField"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_weight="70"
+        android:text="TextView" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="30">
+
+        <TextView
+            android:id="@+id/dateField"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="TextView2" />
+
+        <TextView
+            android:id="@+id/descripField"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="TextView3"
+            android:layout_marginTop="5dip"
+            android:layout_below="@+id/dateField"/>
+
+    </LinearLayout>
+</LinearLayout>

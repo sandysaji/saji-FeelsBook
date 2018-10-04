@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FeelsBook</string>
+
+    <string-array name="emotions">
+        <item>LOVE</item>
+        <item>JOY</item>
+        <item>SURPRISE</item>
+        <item>ANGRY</item>
+        <item>SAD</item>
+        <item>FEAR</item>
+    </string-array>
+
+    <string-array name="emotions_select">
+        <item>--SELECT--</item>
+        <item>LOVE</item>
+        <item>JOY</item>
+        <item>SURPRISE</item>
+        <item>ANGRY</item>
+        <item>SAD</item>
+        <item>FEAR</item>
+    </string-array>
+</resources>
