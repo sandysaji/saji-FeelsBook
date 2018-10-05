@@ -10,3 +10,5 @@ Rosevear,lonelyTwitter, https://github.com/Rosevear/lonelyTwitter, Retrieved Oct
 
 Tima, notifyDataSetChanged example, https://stackoverflow.com/questions/3669325/notifydatasetchanged-example, 
 September 8, 2010, Retrieved October 1, 2018.
+
+Apache License, https://www.apache.org/licenses/LICENSE-2.0, Version 2.0, January 2004, Retrieved October 4,2018
